@@ -1,2 +1,4 @@
 buat akun
 buat repo
+mulai membuat file di repo
+edit edit
