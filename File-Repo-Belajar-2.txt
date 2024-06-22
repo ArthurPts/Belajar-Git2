@@ -1,7 +1,9 @@
-ini repo belajr branch
 belajar 1
+    1.0.0
+    1.0.1
 belajar 2
 lanjut ke yang 3
 habis tuh 4
+    ini ada 4.1
 tidak llupa dgn 5
 dan 6
